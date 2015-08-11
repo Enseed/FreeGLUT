@@ -4,7 +4,6 @@ freeglut/freeglut/Makefile.in
 freeglut/freeglut/aclocal.m4
 freeglut/freeglut/autom4te.cache
 freeglut/freeglut/autoscan.log
-freeglut/freeglut/build
 freeglut/freeglut/build64
 freeglut/freeglut/compile
 freeglut/freeglut/config.guess
@@ -90,3 +89,5 @@ freeglut/freeglut/src/.libs
 freeglut/freeglut/src/Makefile
 freeglut/freeglut/src/Makefile.in
 freeglut/freeglut/stamp-h1
+**/.vs/
+**/Debug/
